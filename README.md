@@ -86,7 +86,7 @@ Returns all episodes:
     "date": "1/11/99",
     "number": 1
   },
-  ...
+  
 ]
 ```
 
